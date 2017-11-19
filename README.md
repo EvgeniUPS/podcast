@@ -1,5 +1,6 @@
 # Подкаст «Веб-стандарты» [![Build Status](https://travis-ci.org/web-standards-ru/podcast.svg?branch=master)](https://travis-ci.org/web-standards-ru/podcast)
 
+Test GP
 Подкаст с новостями фронтенда за минувшую неделю.
 
 - Ольга Алексашенко
